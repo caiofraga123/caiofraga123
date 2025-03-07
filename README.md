@@ -1,8 +1,11 @@
 ## Hi there, I'm Caio 👋
 
 🖥 - Técnico em Informática para a Internet - Internet Computing Technician (IFES - Serra)
+
 📚 - Cursando Ciência da Computação - Studying Computer Science (UFES - Vitória - Goiabeiras)
+
  - Web Developer
+   
  - Ferramentas e linguagens já usadas:
 
 
