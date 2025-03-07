@@ -1,6 +1,12 @@
 ## Hi there, I'm Caio 👋
 
-🖥
+🖥 - Técnico em Informática para a Internet - Internet Computing Technician (IFES - Serra)
+📚 - Cursando Ciência da Computação - Studying Computer Science (UFES - Vitória - Goiabeiras)
+![image](https://github.com/user-attachments/assets/453bcb4c-9657-4e77-b247-6a4222eef743) - Web Developer
+![image](https://github.com/user-attachments/assets/7b727cb5-6552-4d3c-ab37-54f38daf04a1) - Ferramentas e linguagens já usadas:
+
+
+
 <!--
 **caiofraga123/caiofraga123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
