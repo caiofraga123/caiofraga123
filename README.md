@@ -4,10 +4,6 @@
 
 📚 - Cursando Ciência da Computação - Studying Computer Science (UFES - Vitória - Goiabeiras)
 
- - Web Developer
-   
- - Ferramentas e linguagens já usadas:
-
 
 
 <!--
