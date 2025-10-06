@@ -1,4 +1,4 @@
-## Hi there, I'm Caio 👋
+## Hi there, I'm Caio Fraga Coelho Cintra👋
 
 I´m an Internet Computing Technician at IFES - Serra, and I´m studying Computer Science at UFES - Vitória - Goiabeiras. I've learned Python, JavaScript, Java, C, PostgreSQL and MySQL, PHP throughout my studies and developed projects with this languages. 
 
